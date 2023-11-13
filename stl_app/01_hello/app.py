@@ -11,7 +11,7 @@ st.write(pd.DataFrame({
     'first column': [1, 2, 3, 4],
     'second column': [10, 20, 30, 40],
 }))
-st.divider()
+st.divider() # ขีดเส้น
 
 # --- 02
 # binom_dist = np.random.binomial(1, .5, 100)
